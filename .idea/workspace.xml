@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="653741c4-1ad0-4815-af1c-a8e3687b817d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/great-idea/css/services.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/great-idea/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/great-idea/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/great-idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/great-idea/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/great-idea/css/services.css" beforeDir="false" afterPath="$PROJECT_DIR$/great-idea/css/services.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/great-idea/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/great-idea/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582156634319</updated>
-      <workItem from="1582156635716" duration="6640000" />
+      <workItem from="1582156635716" duration="8778000" />
+      <workItem from="1582169364639" duration="4156000" />
     </task>
     <servers />
   </component>
@@ -65,6 +65,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582174167281">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1582174167281" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1582157709062">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
