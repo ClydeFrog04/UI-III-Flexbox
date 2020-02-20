@@ -63,5 +63,97 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Copy and paste your work from yesterday here and start to refactor into flexbox */
+a{
+	text-decoration: none;
+	color: black;
+}
 
+/* Copy and paste your work from yesterday here and start to refactor into flexbox.
+ Thank you flexbox for everything that you do <3*/
+
+body{
+	width: 60%;
+	margin: auto;
+}
+
+/*header content*/
+
+header nav{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+header nav a:hover{
+	animation: grow infinite 1s linear;
+	color: green;
+
+}
+
+@keyframes grow {
+	0%{
+		transform: scale(1.0);
+	}
+	50%{
+		transform: scale(1.1);
+	}
+	100%{
+		transform: scale(1.0);
+	}
+}
+
+/*get started section*/
+.getStarted{
+	margin-top: 60px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.getStarted .left{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.getStarted h1{
+	font-size: 80px;
+	text-align: center;
+}
+
+.getStarted button{
+	width: 200px;
+	height: 40px;
+	background-color: white;
+	border: 1px solid black;
+}
+
+/*middle content*/
+
+.middleContent .column{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+
+.middleContent img{
+	margin-bottom: 20px;
+}
+
+/*footer content*/
+
+.contact{
+	display: flex;
+	flex-direction: column;
+
+	margin-bottom: 60px;
+}
+
+.contact > *{
+	margin-bottom: 12px;
+}
+
+.copyright{
+	display: flex;
+	justify-content: center;
+}
